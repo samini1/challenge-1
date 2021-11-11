@@ -8,6 +8,6 @@ A website for marketing agency Horiseon. Offers search and social media optimiza
 *CSS
 
 ##Website
-link tba
+https://samini1.github.io/challenge-1/
 
 screenshot
